@@ -80,7 +80,7 @@ Si se le pasa un texto vacío al invocar el script, el texto de los ficheros, el
 
 ### Respuesta a ejercicio 3
 
-El script se encuentra [aqui](https://github.com/GeorgeCodde/Desafio2-Linux.git/01/reto1ejercicio3.sh)
+El script se encuentra [aqui](https://github.com/GeorgeCodde/Desafio2-Linux.git/blob/main/01/reto1ejercicio3.sh)
 
 ## Ejercicio 4 - Opcional
 
