@@ -1,1 +1,1 @@
-Me encanta bash!!
+Esta es una prueba de ingreso de texto desde la terminal

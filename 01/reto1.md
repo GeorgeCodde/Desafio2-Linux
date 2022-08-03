@@ -72,8 +72,6 @@ El comando mueve el archivo file2.txt a la carpeta empty
 mv foo/dummy/file2.txt foo/empty
 ```
 
-git
-
 ### Ejercicio 3 - Argumentos del script
 
 Crear un script de bash que agrupe los pasos de los ejercicios anteriores y además permita establecer el texto de file1.txt alimentándose como parámetro al invocarlo.
