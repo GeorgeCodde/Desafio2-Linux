@@ -72,13 +72,17 @@ El comando mueve el archivo file2.txt a la carpeta empty
 mv foo/dummy/file2.txt foo/empty
 ```
 
-### Ejercicio 3 - Argumentos del script
+## Ejercicio 3 - Argumentos del script
 
 Crear un script de bash que agrupe los pasos de los ejercicios anteriores y además permita establecer el texto de file1.txt alimentándose como parámetro al invocarlo.
 Si se le pasa un texto vacío al invocar el script, el texto de los ficheros, el texto por defecto será:
 `Que me gusta bash!!!!`
 
-### Ejercicio 4 - Opcional
+### Respuesta a ejercicio 3
+
+El script se encuentra [aqui](https://github.com/GeorgeCodde/Desafio2-Linux.git/01/reto1ejercicio3.sh)
+
+## Ejercicio 4 - Opcional
 
 Crea un script de bash que descargue el contenido de una página web a un fichero.
 por ejemplo "https://es.wikipedia.org/wiki/DevOps"
