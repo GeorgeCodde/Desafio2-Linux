@@ -19,7 +19,7 @@ touch foo/dummy/file1.txt foo/dummy/file2.txt
 read -p "Escriba el texto a ingresar en el archivo: " texto
 if [[ "$texto" == "" ]]
 then
-    texto="Me encanta bash!!"
+    texto="Que me gusta bash!!!!"
 fi
 echo $texto > foo/dummy/file1.txt
 cat foo/dummy/file1.txt > foo/dummy/file2.txt
