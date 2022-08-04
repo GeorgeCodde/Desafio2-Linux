@@ -10,3 +10,5 @@
 - Sube un nivel de directorio, es decir, vuelve al directorio anterior.
 - Crea un enlace al archivo que creaste en esta carpeta llamado "enlace.ln".
 - Elimina el directorio "nueva_carpeta" y los archivos que contenga.
+
+![Respuesta](https://github.com/GeorgeCodde/Desafio2-Linux/blob/main/03/Respuesta.png)
